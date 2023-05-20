@@ -1,0 +1,5 @@
+package com.htqltuyensinh.controller.admin;
+
+public class HomeController {
+
+}
